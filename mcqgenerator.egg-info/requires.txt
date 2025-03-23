@@ -1,8 +1,5 @@
 ai21
 langchain
-langchain_ai21
 streamlit
 python-dotenv
-pyPDF2
-
--e .
+PyPDF2
